@@ -1,0 +1,100 @@
+<DOCTYPE HTML!>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Amy Charmichael Tribute Page</title>
+  <style type="text/css>
+  body {
+  
+  margin-top: 40px;
+  margin-bottom: 25px;
+  background-color: #f2e6d9;
+}
+
+.box1 {
+  color: black;
+  background-color:#d9b38c;
+  margin: 25px;
+  border: 2px solid black;
+  font-family: Helvetic;
+  border-radius: 25px;
+}
+
+.box2 {
+  background-color:#993333;
+  color: black;
+  margin: 25px;
+  border: 2px solid black;
+  font-family: Helvetic;
+  font-size: 20px;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+.box22 {
+  background-color:  #ecd8c6;
+  color: black;
+  padding: 25px;
+  margin: 25px;
+  font-family: Helvetic;
+  font-size: 20px;
+  border-radius: 25px;
+}
+
+.box3 {
+  background-color: #d9b38c;
+  border: 2px solid black;
+  color: black;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: Helvetic;
+  font-size: 23px;
+  padding: 8px;
+}
+
+.title{
+  font-size: 23px;
+}
+
+.title2 {
+  color:#993333;
+  font-size: 45px;
+}
+  
+  </style>
+</head>
+
+
+<body>
+  <div class="container-fluid text-center box1">
+
+    <h1 class="title2"><strong>Amy Carmichael</strong></h1>
+    <h2><em>Hero of the Faith</em></h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Amy_Carmichael_with_children2.jpg" class="img-responsive center-block img-rounded" alt="Responsive image" />
+
+    <p class="container-fluid text-center box22">
+      Amy Wilson Carmichael (16 December 1867 – 18 January 1951) was a Protestant Christian missionary in India, who opened an orphanage and founded a mission in Dohnavur. She served in India for 55 years without furlough and wrote many books about the missionary
+      work there. <em><br> <br>Continuing reading about her life and work on
+      <a href="https://en.wikipedia.org/wiki/Amy_Carmichael" target="_blank">Wikipedia!</em></a>
+    </p>
+  </div>
+
+  <div class="container-fluid text-center box2">
+    <p class="title">Famous Quotes</p>
+    <p>"Give me the love that leads the way, the faith that nothing can dismay, the hope no disappointments tire, the passion that will burn like fire; <br>Let me not sink to be a clod: Make me Thy fuel, Flame of God."</li>
+      <br>
+    </p>
+    <p><em><strong>"You can always give without loving, but you can never love without giving."</strong></em>
+    </p>
+    <p>"Those who think too much of themselves don’t think enough."</p>
+  </div>
+
+
+  <div class="text-center box3">
+    <p>Coded by Chelsea LaFerla</p>
+  </div>
+
+</body>
+</html>
